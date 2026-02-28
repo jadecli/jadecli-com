@@ -8,8 +8,9 @@ const SITE_DESCRIPTION = "Your agentic cofounder, built on Claude.";
 
 const NAV_LINKS = [
   { href: "/", label: "Home", external: false },
+  { href: "/agents", label: "Agents", external: false },
+  { href: "/tasks", label: "Tasks", external: false },
   { href: "https://jade-agent-marketplace.vercel.app", label: "Marketplace", external: true },
-  { href: "https://dotfiles-delta.vercel.app", label: "Tasks Spec", external: true },
   { href: "https://github.com/jadecli", label: "GitHub", external: true },
 ];
 
