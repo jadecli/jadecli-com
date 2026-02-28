@@ -10,6 +10,7 @@ const NAV_LINKS = [
   { href: "/", label: "Home", external: false },
   { href: "/agents", label: "Agents", external: false },
   { href: "/tasks", label: "Tasks", external: false },
+  { href: "/workers", label: "Workers", external: false },
   { href: "https://jade-agent-marketplace.vercel.app", label: "Marketplace", external: true },
   { href: "https://github.com/jadecli", label: "GitHub", external: true },
 ];
