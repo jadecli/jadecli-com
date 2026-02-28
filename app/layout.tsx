@@ -9,7 +9,7 @@ const SITE_DESCRIPTION = "Your agentic cofounder, built on Claude.";
 const NAV_LINKS = [
   { href: "/", label: "Home", external: false },
   { href: "https://jade-agent-marketplace.vercel.app", label: "Marketplace", external: true },
-  { href: "https://github.com/jadecli/jade-tasks-open-spec", label: "Tasks Spec", external: true },
+  { href: "https://dotfiles-jadecli.vercel.app", label: "Tasks Spec", external: true },
   { href: "https://github.com/jadecli", label: "GitHub", external: true },
 ];
 
@@ -20,6 +20,11 @@ export const metadata: Metadata = {
     title: SITE_NAME,
     description: SITE_DESCRIPTION,
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
   },
 };
 
