@@ -10,14 +10,14 @@ const PRODUCTS = [
     name: "Tasks Open Spec",
     description:
       "An open specification for task dispatch, status reporting, and decision contracts between AI agents.",
-    href: "https://github.com/jadecli/jade-tasks-open-spec",
+    href: "https://dotfiles-delta.vercel.app",
     color: "var(--cycle-2)",
   },
   {
     name: "Enterprise Builder",
     description:
       "Operational foundation for building with an agentic cofounder. Agents, commands, and workflows.",
-    href: "https://github.com/jadecli/jade-enterprise-builder",
+    href: "https://jade-enterprise-builder-alex-jadeclis-projects.vercel.app",
     color: "var(--cycle-3)",
   },
 ];
